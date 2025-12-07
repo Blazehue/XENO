@@ -1,4 +1,4 @@
-# XENO - Interactive Quiz Platform 🧠
+# XENO - Interactive Quiz Platform.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fxeno-rho.vercel.app%2F)](https://xeno-rho.vercel.app/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
